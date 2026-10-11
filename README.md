@@ -23,3 +23,9 @@ This is a conceptual diagram. The repository currently contains visual reference
 ## Make it reproducible
 
 Add the app source and explain document ingestion, access controls, indexing, source citations, and data retention. Enterprise search must preserve the permissions of the original documents; a generated answer should not bypass them.
+
+
+## Live concept preview
+
+[Open the interactive prototype](https://kalyan870.github.io/Internal-Knowledge-Search/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
+
