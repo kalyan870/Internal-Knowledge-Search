@@ -29,3 +29,9 @@ Add the app source and explain document ingestion, access controls, indexing, so
 
 [Open the interactive prototype](https://kalyan870.github.io/Internal-Knowledge-Search/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
 
+## Architecture
+
+
+![Internal-Knowledge-Search architecture map](docs/images/internal-knowledge-search-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/internal-knowledge-search-architecture.svg)
